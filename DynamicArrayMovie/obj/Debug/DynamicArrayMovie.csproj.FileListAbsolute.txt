@@ -1,0 +1,6 @@
+C:\Users\emirm\Desktop\C#\Projects\DynamicArrayMovie\DynamicArrayMovie\bin\Debug\DynamicArrayMovie.exe.config
+C:\Users\emirm\Desktop\C#\Projects\DynamicArrayMovie\DynamicArrayMovie\bin\Debug\DynamicArrayMovie.exe
+C:\Users\emirm\Desktop\C#\Projects\DynamicArrayMovie\DynamicArrayMovie\bin\Debug\DynamicArrayMovie.pdb
+C:\Users\emirm\Desktop\C#\Projects\DynamicArrayMovie\DynamicArrayMovie\obj\Debug\DynamicArrayMovie.csprojResolveAssemblyReference.cache
+C:\Users\emirm\Desktop\C#\Projects\DynamicArrayMovie\DynamicArrayMovie\obj\Debug\DynamicArrayMovie.exe
+C:\Users\emirm\Desktop\C#\Projects\DynamicArrayMovie\DynamicArrayMovie\obj\Debug\DynamicArrayMovie.pdb
